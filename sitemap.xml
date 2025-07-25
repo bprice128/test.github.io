@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:51621/test.github.io/brady/</loc>
+    <loc>http://localhost:51621/test.github.io/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:51621/test.github.io/</loc>
+    <loc>http://localhost:51621/test.github.io/brady/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
